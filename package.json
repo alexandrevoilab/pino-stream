@@ -1,0 +1,19 @@
+{
+  "name": "pino-stream",
+  "version": "0.1.0",
+  "description": "Stream pino logs to multiple transports",
+  "author": "Alexandre Ravey <alexandre@voilab.ch>",
+  "license": "MIT",
+  "dependencies": {
+    "pump": "^3.0.0",
+    "through2": "^2.0.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alexandrevoilab/pino-stream.git"
+  },
+  "bugs": {
+    "url": "https://github.com/alexandrevoilab/pino-stream/issues"
+  },
+  "homepage": "https://github.com/alexandrevoilab/pino-stream#readme"
+}
